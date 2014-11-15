@@ -7,7 +7,7 @@ Requirements
  * PHP +5
 
  
- Getting started with the FB Fan page like
+Getting started with the FB Fan page like
 ===========================================
 * You need to have your page ID ( get here http://findmyfacebookid.com/ )
 * Replace your page ID in fb.php
@@ -15,9 +15,9 @@ Requirements
 
 More:
 ======
-License: MIT
-Source: Webbro.ir
-Demo:http://webbro.ir/demo/facebook.php
+* License: MIT
+* Source: http://Webbro.ir
+* Demo:http://webbro.ir/demo/facebook.php
 
 
 
