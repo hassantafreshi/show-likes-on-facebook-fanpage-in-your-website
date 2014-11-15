@@ -1,4 +1,25 @@
 -
 =
 
-با کمک این کد پی اچ پی می توانید تعداد  لایک صفحه فیسبوک را در سایت خود نمایش دهید . 
+Requirements
+=================
+*Server*
+ * PHP +5
+
+ 
+ Getting started with the FB Fan page like
+===========================================
+* You need to have your page ID ( get here http://findmyfacebookid.com/ )
+* Replace your page ID in fb.php
+* Done ;)
+
+More:
+======
+License: MIT
+Source: Webbro.ir
+Demo:http://webbro.ir/demo/facebook.php
+
+
+
+
+
